@@ -1,3 +1,7 @@
+Enter Week No.Give a Day Name 
+
+
+
 #include<iostream.h>
 #include<conio.h>
 void main()
